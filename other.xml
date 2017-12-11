@@ -1,4 +1,37 @@
 <application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="C++98">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>C/C++</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Data flow analysisC/C++</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>C/C++</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
   <component name="CPPToolchains" version="2">
     <toolchains detectedVersion="5">
       <toolchain name="Default" useCustomCMake="false" debuggerKind="BUNDLED_GDB" />
